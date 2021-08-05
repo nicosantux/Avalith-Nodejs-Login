@@ -18,3 +18,7 @@ Sobre el segundo endpoint, tiene que corresponder con "Buenos días x!" como en 
 /login
 
 /greet
+
+## Usuario:
+
+la contraseña del usuario es "123456"
